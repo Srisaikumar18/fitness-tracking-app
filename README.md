@@ -1,5 +1,6 @@
 # 🏋️ Fitness Tracking App
 
+
 A full-stack web application for tracking workout sessions with automatic calorie calculation, built with FastAPI and React.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -824,3 +825,5 @@ If you find this project useful, please consider giving it a star ⭐
 ---
 
 **Made with ❤️ and ☕**
+=======
+# fitness-tracking-app
